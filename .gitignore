@@ -1,0 +1,23 @@
+_pycache__/
+.python_packages/
+.venv/
+.vscode/
+local.settings.json
+/test_flowchart.png
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Terraform
+.terraform/
+*.tfplan
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Crash log files
+crash.log
+crash.*.log
